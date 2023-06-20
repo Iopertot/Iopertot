@@ -1,16 +1,19 @@
-### Hi there 👋
+Mmm kbity 🌱🌱🌱🌱 I dont use github as much as I should
 
-<!--
-**Iopertot/Iopertot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages
 
-Here are some ideas to get you started:
+python
+javascript
+rust
+Libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+vue.js
+node.js
+three.js
+react.js
+electron.js
+Currently working on
+
+Native windows audiobook player
+Izutsumi.site
+Mostima Discord bot
