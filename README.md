@@ -12,7 +12,7 @@ Languages
 - three.js
 - react.js
 - electron.js
-- 
+  
 Currently working on
 
 - Native windows audiobook player
