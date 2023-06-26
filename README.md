@@ -5,7 +5,7 @@ Languages
 - python
 - javascript
 - rust
-- Libraries
+- typescript
 
 Libraries
 - vue.js
