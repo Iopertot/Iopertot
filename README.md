@@ -6,10 +6,9 @@ Languages
 - rust
 
 Libraries
-- vue.js
-- node.js
-- react.js
-- electron.js
+- node
+- svelte
+- electron
   
 Currently working on
 - Native windows audiobook player
