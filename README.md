@@ -1,4 +1,11 @@
-Mmm kbity 🌱🌱🌱🌱 I dont use github as much as I should so my commits are probably stupid
+Loper
+
+Not that good at coding as I am still learning and have this as a hobby
+I do not work professionally.
+
+I have been programming for close to 8 years but dont use github so I apologise if there is months with no activity as I am not used to using this.
+
+I mostly do web development and cryptography but dabble in backend development and gamedev.
 
 Languages
 - python
@@ -11,6 +18,5 @@ Libraries
 - electron
   
 Currently working on
-- Native windows audiobook player
-- Izutsumi.site
 - Mostima Discord bot
+
